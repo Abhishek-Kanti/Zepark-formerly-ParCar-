@@ -31,7 +31,7 @@ With Zepark’s mobile app, finding a parking spot is effortless. **Book in adva
 
 🔽 **Zepark App Interface**:
 
-<img src="https://drive.google.com/file/d/1FrYU25u1QtVajgNBXPbbuqHroJITfJ-R/view?usp=sharing" alt="app-image" border="0">
+<img src="https://i.ibb.co/JRwJhK0R/app-image.png" border="0">
 
 ---
 
