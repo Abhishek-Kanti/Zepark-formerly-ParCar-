@@ -4,6 +4,8 @@
 
 Zepark is an innovative **smart parking solution** that optimizes urban spaces by connecting parking seekers with unused parking spots. Our **AI-powered platform** and **IoT-based parking module** help reduce traffic congestion, minimize CO₂ emissions, and maximize the efficiency of city spaces.
 
+[Visit Zepark Website](https://zepark.vercel.app/)
+
 ### 🌍 **Impact of Zepark**
 - Reduces inner-city parking traffic by up to **60%**
 - Prevents emission of **14,000 metric tons of CO₂ annually** per urban area
